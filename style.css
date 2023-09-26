@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Sans-serif;
+  background: linear-gradient(to right, #000000 50%, #f0f0f0 50%);
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Sans-serif;
+  background: linear-gradient(to right, #000000 50%, #f0f0f0 50%);
+}
+
+.wrapper {
+  position: relative;
+  min-height: 100%;
+}
+.content {
+  height:100%;
+}
+.left-content {
+  width:50%;
+  float:left;
+}
+
+.right-content {
+  width:50%;
+  float:right;
+}
+
+.nickname{
+  float:right;
+  text-align: right;
+  background-color: #000000;
+}
+
+h1{
+  padding: 0px 64px;
+  text-align: left;
+  font-family: Sans-serif;
+  color: #ffffff;
+}
+
+button {
+  border: 0;
+  border-radius: 0px;
+  background: #000000;
+  color: #fff;
+  padding: 24px 64px;
+  width:644px;
+  font-size: 64px;
+  text-align: left;
+}
+
+button:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+.players{
+  background-color: #000000;
+  color: #f0f0f0;
+  text-align: left;
+}
