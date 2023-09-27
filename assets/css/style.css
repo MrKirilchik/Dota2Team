@@ -1,0 +1,53 @@
+body {
+  font-family: Sans-serif;
+  background: linear-gradient(to right, #000000 50%, #d6d6d6 50%);
+}
+
+html {
+  font-family: Sans-serif;
+  background: linear-gradient(to right, #000000 50%, #d6d6d6 50%);
+}
+
+button {
+  margin: auto;
+  border: 0;
+  border-radius: 0px;
+  background: #000000;
+  text-align: left;
+  height:100px;
+  width:320px;
+  color: #fff;
+  padding: 29px 54px;
+  font-size: 32px;
+}
+
+button:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+header{
+  margin: 20px;
+}
+
+.left-content{
+  width: 50%;
+  float: left;
+}
+
+.right-content{
+  width: 50%;
+  float: right;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float: left;
+}
+
+.img{
+  text-align: center;  
+}
