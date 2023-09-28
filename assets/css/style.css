@@ -6,6 +6,7 @@ body {
   -moz-user-select: none; 
   -webkit-user-select: none; 
   user-select: none; 
+  padding-bottom:60px;
 
 }
 
@@ -44,6 +45,8 @@ header{
 .right-content{
   width: 50%;
   float: right;
+  align-items: center;
+  text-align: center;
 }
 
 .right{
@@ -57,19 +60,4 @@ header{
 .img{
   text-align: center; 
   font-size: 22px;
-}
-
-.footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 2rem;
-  background: purple;
-  color: white;
-  font-weight: 500;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.2rem;
 }
