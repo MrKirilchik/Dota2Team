@@ -59,8 +59,18 @@ header{
   font-size: 22px;
 }
 
-@font-face {
-  font-family: Scheherazade;
-  src: url(C:\site\assets\fonts\spirit-f572d9c7.woff) format("truetype-aat"), 
-       url"C:\site\assets\fonts\spirit-f572d9c7.woff) format("opentype");
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 2rem;
+  background: purple;
+  color: white;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.2rem;
 }
