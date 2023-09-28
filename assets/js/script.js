@@ -11,7 +11,7 @@ function OfflineInfo(){
 }
 
 function SoftSupportInfo(){
-    document.getElementById("img").innerHTML = "<h1>Soft Support</h1><br><img style='width='1200' height='700'' alt='Img Soft Support' src='images/ssupport.jpg'>";
+    document.getElementById("img").innerHTML = "<h1>Soft Support</h1><br><img style='width='1200' height='700'' alt='Img Soft Support' src='images/ssupport.png'>";
 }
 
 function HardSupportInfo(){
