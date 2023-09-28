@@ -15,5 +15,5 @@ function SoftSupportInfo(){
 }
 
 function HardSupportInfo(){
-    document.getElementById("img").innerHTML = "<h1>Hard Support</h1><br><img style='width='1200' height='700'' alt='Img Hard Support' src='image/hsupport.jpg'>";
+    document.getElementById("img").innerHTML = "<h1>Hard Support</h1><br><img style='width='1200' height='700'' alt='Img Hard Support' src='images/hsupport.jpg'>";
 }

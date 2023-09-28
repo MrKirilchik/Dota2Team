@@ -6,7 +6,7 @@ body {
   -moz-user-select: none; 
   -webkit-user-select: none; 
   user-select: none; 
-  
+
 }
 
 html {
@@ -59,7 +59,6 @@ header{
   font-size: 22px;
 }
 
-}
 .footer {
   position: absolute;
   bottom: 0;
