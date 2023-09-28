@@ -3,7 +3,7 @@ function CarryInfo(){
 }
 
 function MidInfo(){
-    document.getElementById("img").innerHTML = "<h1>Mid</h1><br><img style='width='1200' height='700'' alt='Img Mid' src='images/mid.jpg>";
+    document.getElementById("img").innerHTML = "<h1>Mid</h1><br><img style='width='1200' height='700'' alt='Img Mid' src='images/mid.jpg'>";
 }
 
 function OfflineInfo(){
