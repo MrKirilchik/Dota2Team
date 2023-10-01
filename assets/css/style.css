@@ -51,6 +51,7 @@ header{
 
 .right{
   float: right;
+  width: 100%;
 }
 
 .left{
