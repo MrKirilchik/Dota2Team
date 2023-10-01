@@ -23,8 +23,9 @@ button {
   width: 65%;
   max-height:120px;
   color: #fff;
-  font-size: calc(20px + 2vw);
   padding: 29px 54px;
+  font-size: 3vw;
+  white-space: nowrap;
 }
 
 button:hover {
@@ -61,4 +62,16 @@ header{
   width: 100%;
   max-height:800px;
   max-width: fit-content;
+}
+
+.teamname{
+  color: #ffffff;
+  font-size:calc(10px + 2vw);
+}
+
+.logo{
+  width: calc(22px + 2vw);
+  float:left;
+  margin-left:30px;
+  margin-right:20px;
 }
