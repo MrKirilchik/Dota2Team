@@ -20,9 +20,8 @@ button {
   background: #000000;
   text-align: left;
   height: 100%;
-  width: 100%;
+  width: 65%;
   max-height:120px;
-  max-width: 550px;
   color: #fff;
   font-size: calc(20px + 2vw);
   padding: 29px 54px;
