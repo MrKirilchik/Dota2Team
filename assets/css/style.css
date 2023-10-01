@@ -45,7 +45,6 @@ header{
 .right-content{
   width: 50%;
   float: right;
-  align-items: center;
   text-align: center;
 }
 
@@ -56,6 +55,7 @@ header{
 
 .left{
   float: left;
+  width: 50%;
 }
 
 .photo{
